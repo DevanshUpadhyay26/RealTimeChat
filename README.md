@@ -1,6 +1,7 @@
 # Real-Time Chat Web App
 Welcome to the Real-Time Chat Web App! This application enables real-time communication between users, allowing them to chat seamlessly in a dynamic and interactive environment.
 
+![image](ss.png)
 # Features
 • Real-time messaging: Experience instant message updates without the need to refresh the page.\
 • User-friendly interface: Enjoy a clean and intuitive chat interface for easy communication.\
@@ -27,6 +28,8 @@ To run the Real-Time Chat Web App locally, ensure you have the following install
 
 # Code Overview
 The Real-Time Chat Web App consists of two main components: the client-side code and the server-side code.
+![image](https://github.com/DevanshUpadhyay26/RealTimeChat/assets/66689359/6b02cfb1-6190-42fe-845a-dc2026ed2c49)
+
 
 1. Client-side
 • The client-side code is responsible for rendering the chat interface and handling user interactions. The main JavaScript file for the client-side code is public/main.js.
