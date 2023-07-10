@@ -7,7 +7,7 @@
     "test": "nodemon server"
   },
   "keywords": [],
-  "author": "",
+  "author": "DevanshUpadhyay26",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
